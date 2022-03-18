@@ -10,7 +10,13 @@ Pb-based perovskites has performed well for photovoltaics applications. However,
 
 Methods:
 
-The idea of this project is to model competing ternary phases of the perovskite and binary phases of the BaS and ZrS2 salts. The competing phases are determined through convex hulls/Gibbs' triangle available on online databses. The structures of these phases are then relaxed with FHI-aims and an electronic BS and phonon BS is done. With the harmonic phonon force constants, along with Born effective charges and dielectric constants, the peak positions of the IR/Raman spectra can be extracted. A further third-order phonon calculation has to be performed to extract the peak widths of the system. 
+The idea of this project is to model competing ternary phases of the perovskite and binary phases of the BaS and ZrS2 salts. The competing phases are determined through convex hulls/Gibbs' triangle available on online databses. The structures of these phases are then relaxed with FHI-aims and an electronic BS and phonon BS is done. With the harmonic phonon force constants, along with Born effective charges and dielectric constants, the peak positions of the IR/Raman spectra can be extracted. This is done via the Phonopy-Spectroscopy code, and writing the FHI-aims interface for it is part of this project. A further third-order phonon calculation has to be performed to extract the peak widths of the system. 
+
+
+Expected outcomes:
+
+The DFT predicted IR/Raman spectra of BaSrZ3 along with its competing binary and ternary phases will give an indication of changes during the reaction process which can then be matched with the experimental IR spectra. 
+
 
 The website can be found here: https://prakayastha.github.io/chalcogenide_perovskite/
 
