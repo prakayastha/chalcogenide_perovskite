@@ -12,4 +12,6 @@ Methods:
 
 The idea of this project is to model competing ternary phases of the perovskite and binary phases of the BaS and ZrS2 salts. The competing phases are determined through convex hulls/Gibbs' triangle available on online databses. The structures of these phases are then relaxed with FHI-aims and an electronic BS and phonon BS is done. With the harmonic phonon force constants, along with Born effective charges and dielectric constants, the peak positions of the IR/Raman spectra can be extracted. A further third-order phonon calculation has to be performed to extract the peak widths of the system. 
 
+The website can be found here: https://prakayastha.github.io/chalcogenide_perovskite/
+
 NOTE: This website is currently created to display the electronic and phonon band structures at the IOP Advances in Photovoltaics conference. As this project progresses, I will add more details like the IR/Raman spectra from DFT and experiment and our final results. 
