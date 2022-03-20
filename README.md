@@ -12,6 +12,7 @@ Methods:
 
 The idea of this project is to model competing ternary phases of the perovskite and binary phases of the BaS and ZrS2 salts. The competing phases are determined through convex hulls/Gibbs' triangle available on online databses. The structures of these phases are then relaxed with FHI-aims and an electronic BS and phonon BS is done. With the harmonic phonon force constants, along with Born effective charges and dielectric constants, the peak positions of the IR/Raman spectra can be extracted. This is done via the Phonopy-Spectroscopy code, and writing the FHI-aims interface for it is part of this project. A further third-order phonon calculation has to be performed to extract the peak widths of the system. 
 
+An electronic structure analysis is also done with bangaps from PBEsol and HSE06, with and without spin-orbit coupling to check for relativitic effects. The density of states are also plotted to comment on bonding of different phases. 
 
 Expected outcomes:
 
