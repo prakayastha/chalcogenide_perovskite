@@ -16,7 +16,7 @@ An electronic structure analysis is also done with bangaps from PBEsol and HSE06
 
 Expected outcomes:
 
-The DFT predicted IR/Raman spectra of BaSrZ3 along with its competing binary and ternary phases will give an indication of changes during the reaction process which can then be matched with the experimental IR spectra. 
+The DFT predicted IR/Raman spectra of BaSrZ<sub>3</sub> along with its competing binary and ternary phases will give an indication of changes during the reaction process which can then be matched with the experimental IR spectra. 
 
 
 The website can be found here: https://prakayastha.github.io/chalcogenide_perovskite/
