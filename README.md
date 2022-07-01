@@ -21,4 +21,4 @@ The DFT predicted IR/Raman spectra of BaZrS<sub>3</sub> along with its competing
 
 The website can be found here: https://prakayastha.github.io/chalcogenide_perovskite/
 
-NOTE: This website is currently created to display the electronic and phonon band structures at the IOP Advances in Photovoltaics conference. As this project progresses, I will add more details like the IR/Raman spectra from DFT and experiment and our final results. 
+NOTE: This website is currently created to display the primilinary data for the project at the Emerging inorganic materials in thin-film photovoltaics Faraday Discussion.
